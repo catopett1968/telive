@@ -1,5 +1,5 @@
-/* telive v1.10 - tetra live monitor
- * (c) 2014-2023 Jacek Lipkowski <sq5bpf@lipkowski.org>
+/* telive v1.2024 - tetra live monitor
+ * (c) 2014-2026 Jacek Lipkowski <sq5bpf@lipkowski.org>
  * Licensed under GPLv3, please read the file LICENSE, which accompanies 
  * the telive program sources 
  *
@@ -49,6 +49,7 @@
 #include <libxml/parser.h>
 #include <libxml/xpath.h>
 #include <ctype.h>
+#include <windows.h>
 
 #include "telive_util.h"
 #include "telive.h"
